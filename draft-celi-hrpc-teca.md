@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "IRTF"
+workgroup: "Human Rights Protocol Considerations"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Human Rights Protocol Considerations"
+  type: "Research Group"
+  mail: "hrpc@irtf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/hrpc"
+  github: "claucece/draft-celi-hrpc-teca"
+  latest: "https://claucece.github.io/draft-celi-hrpc-teca/draft-celi-hrpc-teca.html"
 
 author:
  -
