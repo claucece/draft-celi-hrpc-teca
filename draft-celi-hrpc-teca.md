@@ -19,12 +19,12 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Technology-Enabled Child Abuse Considerations"
+abbrev: "teca"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+docname: draft-celi-hrpc-teca-latest
+submissiontype: IRTF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Sofia Celi
+    organization: Brave
+    email: cherenkov@riseup.net
 
 normative:
 
@@ -64,8 +64,9 @@ TODO Abstract
 
 # Introduction
 
-TODO Introduction
+Digital technologies shape how children learn, communicate, and play. However, the same technologies can be misused to enable coercion, surveillance, manipulation, or exploitation of minors by adults or peers. This document refers to this as technology-enabled child abuse (TECA). It includes but is not limited to physical, emotional, or sexual abuse facilitated through digital means.
 
+While most discussions of technology and children focus on content exposure or privacy compliance, technology-enabled abuse encompasses broader dynamics of control, dependency, and data exploitation that can occur within families, institutions, or online environments.
 
 # Conventions and Definitions
 
